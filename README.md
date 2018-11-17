@@ -5,8 +5,9 @@
 [https://github.com/freshhope/SpeedReadingIII/releases](https://github.com/freshhope/SpeedReadingIII/releases)
 
 ### 软件最新下载链接：
-[https://1drv.ms/f/s!ArkXvaUCCoKymXmckkV-I9bvModY](微软OneDrive)
-[https://pan.baidu.com/s/1smNd1Rf](百度网盘)
+[微软 OneDrive](https://1drv.ms/f/s!ArkXvaUCCoKymXmckkV-I9bvModY)
+
+[百度网盘](https://pan.baidu.com/s/1smNd1Rf)
 
 ### 安装注意事项
 使用过程中若有发现误报，请添加信任。
